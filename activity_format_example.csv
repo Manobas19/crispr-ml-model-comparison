@@ -1,0 +1,3 @@
+guide_id,guide_sequence,activity,target_group
+format_example_1,ACGTACGTACGTACGTACGT,0.42,GENE_A
+format_example_2,TGCATGCATGCATGCATGCA,0.63,GENE_B
